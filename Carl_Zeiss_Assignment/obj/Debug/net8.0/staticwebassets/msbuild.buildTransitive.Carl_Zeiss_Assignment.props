@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Carl_Zeiss_Assignment.props" />
+</Project>

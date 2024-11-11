@@ -1,0 +1,6 @@
+@Carl_Zeiss_Assignment_HostAddress = http://localhost:5208
+
+GET {{Carl_Zeiss_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
