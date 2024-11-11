@@ -9,8 +9,10 @@ Database name is ProductDb
  "ConnectionStrings": {
    "DefaultConnection": "Server=IE4LLTFHJHXD3\\SQLEXPRESS; Database=ProductDb;Trusted_connection=true;TrustServerCertificate=true;"
  }
+
+
  
- 
+You need to change the connection string according to your need 
  
  command to run in Package manager console
  
