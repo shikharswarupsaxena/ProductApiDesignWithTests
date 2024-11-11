@@ -12,7 +12,7 @@ Database name is ProductDb
 
 
  
-You need to change the connection string according to your need 
+You need to change the connection string according to your need appsettings.json in Carl_Zeiss_Assignment folder
  
  command to run in Package manager console
  
